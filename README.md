@@ -15,7 +15,6 @@ OPENAI_API_KEY='your-api-key-here'
 
 # Install all the packages
 
-> pip install openai python-dotenv pydub instabot Pillow
 
 
 # Environment
