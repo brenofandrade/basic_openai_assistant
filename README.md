@@ -20,18 +20,24 @@ OPENAI_API_KEY='your-api-key-here'
 
 # Environment
 
+```
+python -m venv env
+```
+
 # Windows:
 
 ```
-python -m venv env
 env\Scripts\activate
 ```
 
 # Mac/Linux:
 
 ```
-python3 -m venv env
 source env/bin/activate
 ```
 
+# Install the packages:
+
+```
 pip install -r requirements.txt
+```
